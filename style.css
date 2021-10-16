@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(https://www.creativefabrica.com/wp-content/uploads/2021/08/14/happy-birthday-background-Graphics-15859919-1-312x208.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:rgb(255, 26, 160);
+    background-image:url(happybirthdaymsg.com/wp-content/uploads/2016/01/happy-birthday-image-10.jpg);
+}
+
+
+
